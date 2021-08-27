@@ -3,7 +3,7 @@
     <div class="container d-flex align-items-center justify-content-between">
 
       <div class="logo">
-        <h1><a href="index.html">Vesperr</a></h1>
+        <h1><a href="index.html"><img src="public/web/assets/img/logo.svg" alt=""></a></h1>
         <!-- Uncomment below if you prefer to use an image logo -->
         <!-- <a href="index.html"><img src="public/web/assets/img/logo.png" alt="" class="img-fluid"></a>-->
       </div>
